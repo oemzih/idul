@@ -56,3 +56,8 @@ h3 {
     bottom: 0;
     margin-bottom: 100px;
 }
+
+.footer{
+    position: absolute;
+    bottom: 0;
+}
