@@ -1,0 +1,58 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #033e41;
+}
+
+.content {
+    background-image: url('bg.png');
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.box {
+    background-color: rgb(45, 204, 130);
+    border-radius: 30px;
+    padding: 16px;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 36px;
+    /* font-weight: bold; */
+    background: linear-gradient(to bottom, #dbd0b6 0%, #cc9250 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h3 {
+    color: #dba96b;
+    text-shadow: 0px 8px 10px rgba(0, 0, 0, 0.2);
+}
+
+.mt-10 {
+    margin-top: 100px;
+}
+.mt-14 {
+    margin-top: 140px;
+}
+
+.kotak {
+    background-color: #cc9250;
+    color: white;
+    border-radius: 30px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0px 10px 20px #cc92508e;
+}
+
+.tombol {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 100px;
+}
