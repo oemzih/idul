@@ -13,7 +13,7 @@ let sender;
 if (url.searchParams.get('by') != null) {
   sender = url.searchParams.get('by');
 } else {
-  sender = "Adam Mukti";
+  sender = "__016._";
 }
 
 nama.innerHTML = sender;
