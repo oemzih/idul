@@ -13,7 +13,7 @@ let sender;
 if (url.searchParams.get('by') != null) {
   sender = url.searchParams.get('by');
 } else {
-  sender = "__016._";
+  sender = "Jokowi Kw";
 }
 
 nama.innerHTML = sender;
@@ -37,5 +37,5 @@ right.addEventListener('click', function () {
 })
 
 let footer = document.getElementById("credit");
-footer.innerHTML = "Adam Mukti";
-footer.href = "https://www.instagram.com/adamukti/";
+footer.innerHTML = "__016._";
+footer.href = "https://www.instagram.com/__016._/";
